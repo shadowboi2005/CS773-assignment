@@ -1,0 +1,23 @@
+# --- Large binaries / VM images (exceed GitHub's 100MB limit) ---
+vms/
+*.qcow2
+*.iso
+
+# --- Large archives & compressed traces ---
+*.tar.xz
+*.champsimtrace.xz
+*.pickle
+
+# --- Archive duplicates of folders already in the repo ---
+*.zip
+
+# --- Build artifacts ---
+a.out
+*.o
+*.out
+__pycache__/
+*.pyc
+.gdb_history
+
+# Python virtualenv (machine-specific, regenerated locally)
+binoculars/env/

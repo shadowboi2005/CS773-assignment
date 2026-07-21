@@ -1,0 +1,11 @@
+et_set() gets the set,
+check_hit() gets the way.
+
+find_victim() gets the replacement victim, so this also we need to change.
+
+both these functions are called in CACHE::handle_read(){1469,1470}, CACHE::handle_fill(){55,56},
+CACHE::handle_writeback(){765,766}. But these are for cache hit.
+
+for cache miss, CACHE::handle_read() executes 1865::else statement. 
+miss_handled == 1 means we are going to be handling the miss rn.
+

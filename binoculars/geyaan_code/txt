@@ -1,0 +1,1288 @@
+Using conflict address at 4K offset: 96 (0x73fa4eb30000)
+Background writer thread started, continuously writing to offset 384 KB
+writer conflict address: 0x73fa4eb30000
+Starting access time measurements across all offsets...
+reader addr accessed: 0x73fa4eacf000
+Offset 0 KB: 41.00 cycles
+reader addr accessed: 0x73fa4eacf400
+reader addr accessed: 0x73fa4eacf800
+reader addr accessed: 0x73fa4eacfc00
+reader addr accessed: 0x73fa4ead0000
+Offset 4 KB: 36.82 cycles
+reader addr accessed: 0x73fa4ead0400
+reader addr accessed: 0x73fa4ead0800
+reader addr accessed: 0x73fa4ead0c00
+reader addr accessed: 0x73fa4ead1000
+Offset 8 KB: 36.75 cycles
+reader addr accessed: 0x73fa4ead1400
+reader addr accessed: 0x73fa4ead1800
+reader addr accessed: 0x73fa4ead1c00
+reader addr accessed: 0x73fa4ead2000
+Offset 12 KB: 36.39 cycles
+reader addr accessed: 0x73fa4ead2400
+reader addr accessed: 0x73fa4ead2800
+reader addr accessed: 0x73fa4ead2c00
+reader addr accessed: 0x73fa4ead3000
+Offset 16 KB: 38.10 cycles
+reader addr accessed: 0x73fa4ead3400
+reader addr accessed: 0x73fa4ead3800
+reader addr accessed: 0x73fa4ead3c00
+reader addr accessed: 0x73fa4ead4000
+Offset 20 KB: 37.08 cycles
+reader addr accessed: 0x73fa4ead4400
+reader addr accessed: 0x73fa4ead4800
+reader addr accessed: 0x73fa4ead4c00
+reader addr accessed: 0x73fa4ead5000
+Offset 24 KB: 35.05 cycles
+reader addr accessed: 0x73fa4ead5400
+reader addr accessed: 0x73fa4ead5800
+reader addr accessed: 0x73fa4ead5c00
+reader addr accessed: 0x73fa4ead6000
+Offset 28 KB: 34.28 cycles
+reader addr accessed: 0x73fa4ead6400
+reader addr accessed: 0x73fa4ead6800
+reader addr accessed: 0x73fa4ead6c00
+reader addr accessed: 0x73fa4ead7000
+Offset 32 KB: 37.38 cycles
+reader addr accessed: 0x73fa4ead7400
+reader addr accessed: 0x73fa4ead7800
+reader addr accessed: 0x73fa4ead7c00
+reader addr accessed: 0x73fa4ead8000
+Offset 36 KB: 35.54 cycles
+reader addr accessed: 0x73fa4ead8400
+reader addr accessed: 0x73fa4ead8800
+reader addr accessed: 0x73fa4ead8c00
+reader addr accessed: 0x73fa4ead9000
+Offset 40 KB: 34.29 cycles
+reader addr accessed: 0x73fa4ead9400
+reader addr accessed: 0x73fa4ead9800
+reader addr accessed: 0x73fa4ead9c00
+reader addr accessed: 0x73fa4eada000
+Offset 44 KB: 38.13 cycles
+reader addr accessed: 0x73fa4eada400
+reader addr accessed: 0x73fa4eada800
+reader addr accessed: 0x73fa4eadac00
+reader addr accessed: 0x73fa4eadb000
+Offset 48 KB: 36.80 cycles
+reader addr accessed: 0x73fa4eadb400
+reader addr accessed: 0x73fa4eadb800
+reader addr accessed: 0x73fa4eadbc00
+reader addr accessed: 0x73fa4eadc000
+Offset 52 KB: 38.35 cycles
+reader addr accessed: 0x73fa4eadc400
+reader addr accessed: 0x73fa4eadc800
+reader addr accessed: 0x73fa4eadcc00
+reader addr accessed: 0x73fa4eadd000
+Offset 56 KB: 34.34 cycles
+reader addr accessed: 0x73fa4eadd400
+reader addr accessed: 0x73fa4eadd800
+reader addr accessed: 0x73fa4eaddc00
+reader addr accessed: 0x73fa4eade000
+Offset 60 KB: 34.31 cycles
+reader addr accessed: 0x73fa4eade400
+reader addr accessed: 0x73fa4eade800
+reader addr accessed: 0x73fa4eadec00
+reader addr accessed: 0x73fa4eadf000
+Offset 64 KB: 35.52 cycles
+reader addr accessed: 0x73fa4eadf400
+reader addr accessed: 0x73fa4eadf800
+reader addr accessed: 0x73fa4eadfc00
+reader addr accessed: 0x73fa4eae0000
+Offset 68 KB: 35.57 cycles
+reader addr accessed: 0x73fa4eae0400
+reader addr accessed: 0x73fa4eae0800
+reader addr accessed: 0x73fa4eae0c00
+reader addr accessed: 0x73fa4eae1000
+Offset 72 KB: 38.72 cycles
+reader addr accessed: 0x73fa4eae1400
+reader addr accessed: 0x73fa4eae1800
+reader addr accessed: 0x73fa4eae1c00
+reader addr accessed: 0x73fa4eae2000
+Offset 76 KB: 35.51 cycles
+reader addr accessed: 0x73fa4eae2400
+reader addr accessed: 0x73fa4eae2800
+reader addr accessed: 0x73fa4eae2c00
+reader addr accessed: 0x73fa4eae3000
+Offset 80 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eae3400
+reader addr accessed: 0x73fa4eae3800
+reader addr accessed: 0x73fa4eae3c00
+reader addr accessed: 0x73fa4eae4000
+Offset 84 KB: 34.72 cycles
+reader addr accessed: 0x73fa4eae4400
+reader addr accessed: 0x73fa4eae4800
+reader addr accessed: 0x73fa4eae4c00
+reader addr accessed: 0x73fa4eae5000
+Offset 88 KB: 35.49 cycles
+reader addr accessed: 0x73fa4eae5400
+reader addr accessed: 0x73fa4eae5800
+reader addr accessed: 0x73fa4eae5c00
+reader addr accessed: 0x73fa4eae6000
+Offset 92 KB: 34.26 cycles
+reader addr accessed: 0x73fa4eae6400
+reader addr accessed: 0x73fa4eae6800
+reader addr accessed: 0x73fa4eae6c00
+reader addr accessed: 0x73fa4eae7000
+Offset 96 KB: 36.80 cycles
+reader addr accessed: 0x73fa4eae7400
+reader addr accessed: 0x73fa4eae7800
+reader addr accessed: 0x73fa4eae7c00
+reader addr accessed: 0x73fa4eae8000
+Offset 100 KB: 35.57 cycles
+reader addr accessed: 0x73fa4eae8400
+reader addr accessed: 0x73fa4eae8800
+reader addr accessed: 0x73fa4eae8c00
+reader addr accessed: 0x73fa4eae9000
+Offset 104 KB: 43.33 cycles
+reader addr accessed: 0x73fa4eae9400
+reader addr accessed: 0x73fa4eae9800
+reader addr accessed: 0x73fa4eae9c00
+reader addr accessed: 0x73fa4eaea000
+Offset 108 KB: 42.88 cycles
+reader addr accessed: 0x73fa4eaea400
+reader addr accessed: 0x73fa4eaea800
+reader addr accessed: 0x73fa4eaeac00
+reader addr accessed: 0x73fa4eaeb000
+Offset 112 KB: 43.06 cycles
+reader addr accessed: 0x73fa4eaeb400
+reader addr accessed: 0x73fa4eaeb800
+reader addr accessed: 0x73fa4eaebc00
+reader addr accessed: 0x73fa4eaec000
+Offset 116 KB: 43.59 cycles
+reader addr accessed: 0x73fa4eaec400
+reader addr accessed: 0x73fa4eaec800
+reader addr accessed: 0x73fa4eaecc00
+reader addr accessed: 0x73fa4eaed000
+Offset 120 KB: 44.09 cycles
+reader addr accessed: 0x73fa4eaed400
+reader addr accessed: 0x73fa4eaed800
+reader addr accessed: 0x73fa4eaedc00
+reader addr accessed: 0x73fa4eaee000
+Offset 124 KB: 44.67 cycles
+reader addr accessed: 0x73fa4eaee400
+reader addr accessed: 0x73fa4eaee800
+reader addr accessed: 0x73fa4eaeec00
+reader addr accessed: 0x73fa4eaef000
+Offset 128 KB: 43.87 cycles
+reader addr accessed: 0x73fa4eaef400
+reader addr accessed: 0x73fa4eaef800
+reader addr accessed: 0x73fa4eaefc00
+reader addr accessed: 0x73fa4eaf0000
+Offset 132 KB: 44.02 cycles
+reader addr accessed: 0x73fa4eaf0400
+reader addr accessed: 0x73fa4eaf0800
+reader addr accessed: 0x73fa4eaf0c00
+reader addr accessed: 0x73fa4eaf1000
+Offset 136 KB: 46.39 cycles
+reader addr accessed: 0x73fa4eaf1400
+reader addr accessed: 0x73fa4eaf1800
+reader addr accessed: 0x73fa4eaf1c00
+reader addr accessed: 0x73fa4eaf2000
+Offset 140 KB: 44.29 cycles
+reader addr accessed: 0x73fa4eaf2400
+reader addr accessed: 0x73fa4eaf2800
+reader addr accessed: 0x73fa4eaf2c00
+reader addr accessed: 0x73fa4eaf3000
+Offset 144 KB: 44.96 cycles
+reader addr accessed: 0x73fa4eaf3400
+reader addr accessed: 0x73fa4eaf3800
+reader addr accessed: 0x73fa4eaf3c00
+reader addr accessed: 0x73fa4eaf4000
+Offset 148 KB: 45.08 cycles
+reader addr accessed: 0x73fa4eaf4400
+reader addr accessed: 0x73fa4eaf4800
+reader addr accessed: 0x73fa4eaf4c00
+reader addr accessed: 0x73fa4eaf5000
+Offset 152 KB: 45.40 cycles
+reader addr accessed: 0x73fa4eaf5400
+reader addr accessed: 0x73fa4eaf5800
+reader addr accessed: 0x73fa4eaf5c00
+reader addr accessed: 0x73fa4eaf6000
+Offset 156 KB: 44.99 cycles
+reader addr accessed: 0x73fa4eaf6400
+reader addr accessed: 0x73fa4eaf6800
+reader addr accessed: 0x73fa4eaf6c00
+reader addr accessed: 0x73fa4eaf7000
+Offset 160 KB: 45.91 cycles
+reader addr accessed: 0x73fa4eaf7400
+reader addr accessed: 0x73fa4eaf7800
+reader addr accessed: 0x73fa4eaf7c00
+reader addr accessed: 0x73fa4eaf8000
+Offset 164 KB: 45.45 cycles
+reader addr accessed: 0x73fa4eaf8400
+reader addr accessed: 0x73fa4eaf8800
+reader addr accessed: 0x73fa4eaf8c00
+reader addr accessed: 0x73fa4eaf9000
+Offset 168 KB: 44.79 cycles
+reader addr accessed: 0x73fa4eaf9400
+reader addr accessed: 0x73fa4eaf9800
+reader addr accessed: 0x73fa4eaf9c00
+reader addr accessed: 0x73fa4eafa000
+Offset 172 KB: 45.68 cycles
+reader addr accessed: 0x73fa4eafa400
+reader addr accessed: 0x73fa4eafa800
+reader addr accessed: 0x73fa4eafac00
+reader addr accessed: 0x73fa4eafb000
+Offset 176 KB: 44.55 cycles
+reader addr accessed: 0x73fa4eafb400
+reader addr accessed: 0x73fa4eafb800
+reader addr accessed: 0x73fa4eafbc00
+reader addr accessed: 0x73fa4eafc000
+Offset 180 KB: 45.10 cycles
+reader addr accessed: 0x73fa4eafc400
+reader addr accessed: 0x73fa4eafc800
+reader addr accessed: 0x73fa4eafcc00
+reader addr accessed: 0x73fa4eafd000
+Offset 184 KB: 44.37 cycles
+reader addr accessed: 0x73fa4eafd400
+reader addr accessed: 0x73fa4eafd800
+reader addr accessed: 0x73fa4eafdc00
+reader addr accessed: 0x73fa4eafe000
+Offset 188 KB: 44.74 cycles
+reader addr accessed: 0x73fa4eafe400
+reader addr accessed: 0x73fa4eafe800
+reader addr accessed: 0x73fa4eafec00
+reader addr accessed: 0x73fa4eaff000
+Offset 192 KB: 45.05 cycles
+reader addr accessed: 0x73fa4eaff400
+reader addr accessed: 0x73fa4eaff800
+reader addr accessed: 0x73fa4eaffc00
+reader addr accessed: 0x73fa4eb00000
+Offset 196 KB: 45.26 cycles
+reader addr accessed: 0x73fa4eb00400
+reader addr accessed: 0x73fa4eb00800
+reader addr accessed: 0x73fa4eb00c00
+reader addr accessed: 0x73fa4eb01000
+Offset 200 KB: 44.85 cycles
+reader addr accessed: 0x73fa4eb01400
+reader addr accessed: 0x73fa4eb01800
+reader addr accessed: 0x73fa4eb01c00
+reader addr accessed: 0x73fa4eb02000
+Offset 204 KB: 36.75 cycles
+reader addr accessed: 0x73fa4eb02400
+reader addr accessed: 0x73fa4eb02800
+reader addr accessed: 0x73fa4eb02c00
+reader addr accessed: 0x73fa4eb03000
+Offset 208 KB: 38.51 cycles
+reader addr accessed: 0x73fa4eb03400
+reader addr accessed: 0x73fa4eb03800
+reader addr accessed: 0x73fa4eb03c00
+reader addr accessed: 0x73fa4eb04000
+Offset 212 KB: 35.52 cycles
+reader addr accessed: 0x73fa4eb04400
+reader addr accessed: 0x73fa4eb04800
+reader addr accessed: 0x73fa4eb04c00
+reader addr accessed: 0x73fa4eb05000
+Offset 216 KB: 35.33 cycles
+reader addr accessed: 0x73fa4eb05400
+reader addr accessed: 0x73fa4eb05800
+reader addr accessed: 0x73fa4eb05c00
+reader addr accessed: 0x73fa4eb06000
+Offset 220 KB: 32.83 cycles
+reader addr accessed: 0x73fa4eb06400
+reader addr accessed: 0x73fa4eb06800
+reader addr accessed: 0x73fa4eb06c00
+reader addr accessed: 0x73fa4eb07000
+Offset 224 KB: 33.95 cycles
+reader addr accessed: 0x73fa4eb07400
+reader addr accessed: 0x73fa4eb07800
+reader addr accessed: 0x73fa4eb07c00
+reader addr accessed: 0x73fa4eb08000
+Offset 228 KB: 32.76 cycles
+reader addr accessed: 0x73fa4eb08400
+reader addr accessed: 0x73fa4eb08800
+reader addr accessed: 0x73fa4eb08c00
+reader addr accessed: 0x73fa4eb09000
+Offset 232 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eb09400
+reader addr accessed: 0x73fa4eb09800
+reader addr accessed: 0x73fa4eb09c00
+reader addr accessed: 0x73fa4eb0a000
+Offset 236 KB: 35.46 cycles
+reader addr accessed: 0x73fa4eb0a400
+reader addr accessed: 0x73fa4eb0a800
+reader addr accessed: 0x73fa4eb0ac00
+reader addr accessed: 0x73fa4eb0b000
+Offset 240 KB: 34.31 cycles
+reader addr accessed: 0x73fa4eb0b400
+reader addr accessed: 0x73fa4eb0b800
+reader addr accessed: 0x73fa4eb0bc00
+reader addr accessed: 0x73fa4eb0c000
+Offset 244 KB: 34.27 cycles
+reader addr accessed: 0x73fa4eb0c400
+reader addr accessed: 0x73fa4eb0c800
+reader addr accessed: 0x73fa4eb0cc00
+reader addr accessed: 0x73fa4eb0d000
+Offset 248 KB: 35.47 cycles
+reader addr accessed: 0x73fa4eb0d400
+reader addr accessed: 0x73fa4eb0d800
+reader addr accessed: 0x73fa4eb0dc00
+reader addr accessed: 0x73fa4eb0e000
+Offset 252 KB: 35.53 cycles
+reader addr accessed: 0x73fa4eb0e400
+reader addr accessed: 0x73fa4eb0e800
+reader addr accessed: 0x73fa4eb0ec00
+reader addr accessed: 0x73fa4eb0f000
+Offset 256 KB: 35.44 cycles
+reader addr accessed: 0x73fa4eb0f400
+reader addr accessed: 0x73fa4eb0f800
+reader addr accessed: 0x73fa4eb0fc00
+reader addr accessed: 0x73fa4eb10000
+Offset 260 KB: 35.52 cycles
+reader addr accessed: 0x73fa4eb10400
+reader addr accessed: 0x73fa4eb10800
+reader addr accessed: 0x73fa4eb10c00
+reader addr accessed: 0x73fa4eb11000
+Offset 264 KB: 35.50 cycles
+reader addr accessed: 0x73fa4eb11400
+reader addr accessed: 0x73fa4eb11800
+reader addr accessed: 0x73fa4eb11c00
+reader addr accessed: 0x73fa4eb12000
+Offset 268 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eb12400
+reader addr accessed: 0x73fa4eb12800
+reader addr accessed: 0x73fa4eb12c00
+reader addr accessed: 0x73fa4eb13000
+Offset 272 KB: 34.32 cycles
+reader addr accessed: 0x73fa4eb13400
+reader addr accessed: 0x73fa4eb13800
+reader addr accessed: 0x73fa4eb13c00
+reader addr accessed: 0x73fa4eb14000
+Offset 276 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eb14400
+reader addr accessed: 0x73fa4eb14800
+reader addr accessed: 0x73fa4eb14c00
+reader addr accessed: 0x73fa4eb15000
+Offset 280 KB: 34.25 cycles
+reader addr accessed: 0x73fa4eb15400
+reader addr accessed: 0x73fa4eb15800
+reader addr accessed: 0x73fa4eb15c00
+reader addr accessed: 0x73fa4eb16000
+Offset 284 KB: 34.28 cycles
+reader addr accessed: 0x73fa4eb16400
+reader addr accessed: 0x73fa4eb16800
+reader addr accessed: 0x73fa4eb16c00
+reader addr accessed: 0x73fa4eb17000
+Offset 288 KB: 35.49 cycles
+reader addr accessed: 0x73fa4eb17400
+reader addr accessed: 0x73fa4eb17800
+reader addr accessed: 0x73fa4eb17c00
+reader addr accessed: 0x73fa4eb18000
+Offset 292 KB: 34.29 cycles
+reader addr accessed: 0x73fa4eb18400
+reader addr accessed: 0x73fa4eb18800
+reader addr accessed: 0x73fa4eb18c00
+reader addr accessed: 0x73fa4eb19000
+Offset 296 KB: 36.51 cycles
+reader addr accessed: 0x73fa4eb19400
+reader addr accessed: 0x73fa4eb19800
+reader addr accessed: 0x73fa4eb19c00
+reader addr accessed: 0x73fa4eb1a000
+Offset 300 KB: 32.79 cycles
+reader addr accessed: 0x73fa4eb1a400
+reader addr accessed: 0x73fa4eb1a800
+reader addr accessed: 0x73fa4eb1ac00
+reader addr accessed: 0x73fa4eb1b000
+Offset 304 KB: 34.03 cycles
+reader addr accessed: 0x73fa4eb1b400
+reader addr accessed: 0x73fa4eb1b800
+reader addr accessed: 0x73fa4eb1bc00
+reader addr accessed: 0x73fa4eb1c000
+Offset 308 KB: 35.56 cycles
+reader addr accessed: 0x73fa4eb1c400
+reader addr accessed: 0x73fa4eb1c800
+reader addr accessed: 0x73fa4eb1cc00
+reader addr accessed: 0x73fa4eb1d000
+Offset 312 KB: 32.74 cycles
+reader addr accessed: 0x73fa4eb1d400
+reader addr accessed: 0x73fa4eb1d800
+reader addr accessed: 0x73fa4eb1dc00
+reader addr accessed: 0x73fa4eb1e000
+Offset 316 KB: 32.85 cycles
+reader addr accessed: 0x73fa4eb1e400
+reader addr accessed: 0x73fa4eb1e800
+reader addr accessed: 0x73fa4eb1ec00
+reader addr accessed: 0x73fa4eb1f000
+Offset 320 KB: 33.93 cycles
+reader addr accessed: 0x73fa4eb1f400
+reader addr accessed: 0x73fa4eb1f800
+reader addr accessed: 0x73fa4eb1fc00
+reader addr accessed: 0x73fa4eb20000
+Offset 324 KB: 33.96 cycles
+reader addr accessed: 0x73fa4eb20400
+reader addr accessed: 0x73fa4eb20800
+reader addr accessed: 0x73fa4eb20c00
+reader addr accessed: 0x73fa4eb21000
+Offset 328 KB: 32.76 cycles
+reader addr accessed: 0x73fa4eb21400
+reader addr accessed: 0x73fa4eb21800
+reader addr accessed: 0x73fa4eb21c00
+reader addr accessed: 0x73fa4eb22000
+Offset 332 KB: 32.78 cycles
+reader addr accessed: 0x73fa4eb22400
+reader addr accessed: 0x73fa4eb22800
+reader addr accessed: 0x73fa4eb22c00
+reader addr accessed: 0x73fa4eb23000
+Offset 336 KB: 35.47 cycles
+reader addr accessed: 0x73fa4eb23400
+reader addr accessed: 0x73fa4eb23800
+reader addr accessed: 0x73fa4eb23c00
+reader addr accessed: 0x73fa4eb24000
+Offset 340 KB: 35.52 cycles
+reader addr accessed: 0x73fa4eb24400
+reader addr accessed: 0x73fa4eb24800
+reader addr accessed: 0x73fa4eb24c00
+reader addr accessed: 0x73fa4eb25000
+Offset 344 KB: 35.53 cycles
+reader addr accessed: 0x73fa4eb25400
+reader addr accessed: 0x73fa4eb25800
+reader addr accessed: 0x73fa4eb25c00
+reader addr accessed: 0x73fa4eb26000
+Offset 348 KB: 34.28 cycles
+reader addr accessed: 0x73fa4eb26400
+reader addr accessed: 0x73fa4eb26800
+reader addr accessed: 0x73fa4eb26c00
+reader addr accessed: 0x73fa4eb27000
+Offset 352 KB: 35.46 cycles
+reader addr accessed: 0x73fa4eb27400
+reader addr accessed: 0x73fa4eb27800
+reader addr accessed: 0x73fa4eb27c00
+reader addr accessed: 0x73fa4eb28000
+Offset 356 KB: 36.05 cycles
+reader addr accessed: 0x73fa4eb28400
+reader addr accessed: 0x73fa4eb28800
+reader addr accessed: 0x73fa4eb28c00
+reader addr accessed: 0x73fa4eb29000
+Offset 360 KB: 36.48 cycles
+reader addr accessed: 0x73fa4eb29400
+reader addr accessed: 0x73fa4eb29800
+reader addr accessed: 0x73fa4eb29c00
+reader addr accessed: 0x73fa4eb2a000
+Offset 364 KB: 32.74 cycles
+reader addr accessed: 0x73fa4eb2a400
+reader addr accessed: 0x73fa4eb2a800
+reader addr accessed: 0x73fa4eb2ac00
+reader addr accessed: 0x73fa4eb2b000
+Offset 368 KB: 34.28 cycles
+reader addr accessed: 0x73fa4eb2b400
+reader addr accessed: 0x73fa4eb2b800
+reader addr accessed: 0x73fa4eb2bc00
+reader addr accessed: 0x73fa4eb2c000
+Offset 372 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eb2c400
+reader addr accessed: 0x73fa4eb2c800
+reader addr accessed: 0x73fa4eb2cc00
+reader addr accessed: 0x73fa4eb2d000
+Offset 376 KB: 35.51 cycles
+reader addr accessed: 0x73fa4eb2d400
+reader addr accessed: 0x73fa4eb2d800
+reader addr accessed: 0x73fa4eb2dc00
+reader addr accessed: 0x73fa4eb2e000
+Offset 380 KB: 35.47 cycles
+reader addr accessed: 0x73fa4eb2e400
+reader addr accessed: 0x73fa4eb2e800
+reader addr accessed: 0x73fa4eb2ec00
+reader addr accessed: 0x73fa4eb2f000
+Offset 384 KB: 34.26 cycles
+reader addr accessed: 0x73fa4eb2f400
+reader addr accessed: 0x73fa4eb2f800
+reader addr accessed: 0x73fa4eb2fc00
+reader addr accessed: 0x73fa4eb30000
+Offset 388 KB: 365.97 cycles
+reader addr accessed: 0x73fa4eb30400
+reader addr accessed: 0x73fa4eb30800
+reader addr accessed: 0x73fa4eb30c00
+reader addr accessed: 0x73fa4eb31000
+Offset 392 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eb31400
+reader addr accessed: 0x73fa4eb31800
+reader addr accessed: 0x73fa4eb31c00
+reader addr accessed: 0x73fa4eb32000
+Offset 396 KB: 34.33 cycles
+reader addr accessed: 0x73fa4eb32400
+reader addr accessed: 0x73fa4eb32800
+reader addr accessed: 0x73fa4eb32c00
+reader addr accessed: 0x73fa4eb33000
+Offset 400 KB: 35.53 cycles
+reader addr accessed: 0x73fa4eb33400
+reader addr accessed: 0x73fa4eb33800
+reader addr accessed: 0x73fa4eb33c00
+reader addr accessed: 0x73fa4eb34000
+Offset 404 KB: 34.27 cycles
+reader addr accessed: 0x73fa4eb34400
+reader addr accessed: 0x73fa4eb34800
+reader addr accessed: 0x73fa4eb34c00
+reader addr accessed: 0x73fa4eb35000
+Offset 408 KB: 35.48 cycles
+reader addr accessed: 0x73fa4eb35400
+reader addr accessed: 0x73fa4eb35800
+reader addr accessed: 0x73fa4eb35c00
+reader addr accessed: 0x73fa4eb36000
+Offset 412 KB: 37.36 cycles
+reader addr accessed: 0x73fa4eb36400
+reader addr accessed: 0x73fa4eb36800
+reader addr accessed: 0x73fa4eb36c00
+reader addr accessed: 0x73fa4eb37000
+Offset 416 KB: 36.73 cycles
+reader addr accessed: 0x73fa4eb37400
+reader addr accessed: 0x73fa4eb37800
+reader addr accessed: 0x73fa4eb37c00
+reader addr accessed: 0x73fa4eb38000
+Offset 420 KB: 34.29 cycles
+reader addr accessed: 0x73fa4eb38400
+reader addr accessed: 0x73fa4eb38800
+reader addr accessed: 0x73fa4eb38c00
+reader addr accessed: 0x73fa4eb39000
+Offset 424 KB: 34.31 cycles
+reader addr accessed: 0x73fa4eb39400
+reader addr accessed: 0x73fa4eb39800
+reader addr accessed: 0x73fa4eb39c00
+reader addr accessed: 0x73fa4eb3a000
+Offset 428 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eb3a400
+reader addr accessed: 0x73fa4eb3a800
+reader addr accessed: 0x73fa4eb3ac00
+reader addr accessed: 0x73fa4eb3b000
+Offset 432 KB: 36.78 cycles
+reader addr accessed: 0x73fa4eb3b400
+reader addr accessed: 0x73fa4eb3b800
+reader addr accessed: 0x73fa4eb3bc00
+reader addr accessed: 0x73fa4eb3c000
+Offset 436 KB: 36.79 cycles
+reader addr accessed: 0x73fa4eb3c400
+reader addr accessed: 0x73fa4eb3c800
+reader addr accessed: 0x73fa4eb3cc00
+reader addr accessed: 0x73fa4eb3d000
+Offset 440 KB: 36.69 cycles
+reader addr accessed: 0x73fa4eb3d400
+reader addr accessed: 0x73fa4eb3d800
+reader addr accessed: 0x73fa4eb3dc00
+reader addr accessed: 0x73fa4eb3e000
+Offset 444 KB: 36.79 cycles
+reader addr accessed: 0x73fa4eb3e400
+reader addr accessed: 0x73fa4eb3e800
+reader addr accessed: 0x73fa4eb3ec00
+reader addr accessed: 0x73fa4eb3f000
+Offset 448 KB: 38.09 cycles
+reader addr accessed: 0x73fa4eb3f400
+reader addr accessed: 0x73fa4eb3f800
+reader addr accessed: 0x73fa4eb3fc00
+reader addr accessed: 0x73fa4eb40000
+Offset 452 KB: 36.81 cycles
+reader addr accessed: 0x73fa4eb40400
+reader addr accessed: 0x73fa4eb40800
+reader addr accessed: 0x73fa4eb40c00
+reader addr accessed: 0x73fa4eb41000
+Offset 456 KB: 36.80 cycles
+reader addr accessed: 0x73fa4eb41400
+reader addr accessed: 0x73fa4eb41800
+reader addr accessed: 0x73fa4eb41c00
+reader addr accessed: 0x73fa4eb42000
+Offset 460 KB: 37.66 cycles
+reader addr accessed: 0x73fa4eb42400
+reader addr accessed: 0x73fa4eb42800
+reader addr accessed: 0x73fa4eb42c00
+reader addr accessed: 0x73fa4eb43000
+Offset 464 KB: 36.74 cycles
+reader addr accessed: 0x73fa4eb43400
+reader addr accessed: 0x73fa4eb43800
+reader addr accessed: 0x73fa4eb43c00
+reader addr accessed: 0x73fa4eb44000
+Offset 468 KB: 36.80 cycles
+reader addr accessed: 0x73fa4eb44400
+reader addr accessed: 0x73fa4eb44800
+reader addr accessed: 0x73fa4eb44c00
+reader addr accessed: 0x73fa4eb45000
+Offset 472 KB: 38.14 cycles
+reader addr accessed: 0x73fa4eb45400
+reader addr accessed: 0x73fa4eb45800
+reader addr accessed: 0x73fa4eb45c00
+reader addr accessed: 0x73fa4eb46000
+Offset 476 KB: 36.85 cycles
+reader addr accessed: 0x73fa4eb46400
+reader addr accessed: 0x73fa4eb46800
+reader addr accessed: 0x73fa4eb46c00
+reader addr accessed: 0x73fa4eb47000
+Offset 480 KB: 35.53 cycles
+reader addr accessed: 0x73fa4eb47400
+reader addr accessed: 0x73fa4eb47800
+reader addr accessed: 0x73fa4eb47c00
+reader addr accessed: 0x73fa4eb48000
+Offset 484 KB: 35.49 cycles
+reader addr accessed: 0x73fa4eb48400
+reader addr accessed: 0x73fa4eb48800
+reader addr accessed: 0x73fa4eb48c00
+reader addr accessed: 0x73fa4eb49000
+Offset 488 KB: 35.54 cycles
+reader addr accessed: 0x73fa4eb49400
+reader addr accessed: 0x73fa4eb49800
+reader addr accessed: 0x73fa4eb49c00
+reader addr accessed: 0x73fa4eb4a000
+Offset 492 KB: 34.25 cycles
+reader addr accessed: 0x73fa4eb4a400
+reader addr accessed: 0x73fa4eb4a800
+reader addr accessed: 0x73fa4eb4ac00
+reader addr accessed: 0x73fa4eb4b000
+Offset 496 KB: 36.80 cycles
+reader addr accessed: 0x73fa4eb4b400
+reader addr accessed: 0x73fa4eb4b800
+reader addr accessed: 0x73fa4eb4bc00
+reader addr accessed: 0x73fa4eb4c000
+Offset 500 KB: 34.40 cycles
+reader addr accessed: 0x73fa4eb4c400
+reader addr accessed: 0x73fa4eb4c800
+reader addr accessed: 0x73fa4eb4cc00
+reader addr accessed: 0x73fa4eb4d000
+Offset 504 KB: 35.59 cycles
+reader addr accessed: 0x73fa4eb4d400
+reader addr accessed: 0x73fa4eb4d800
+reader addr accessed: 0x73fa4eb4dc00
+reader addr accessed: 0x73fa4eb4e000
+Offset 508 KB: 34.31 cycles
+reader addr accessed: 0x73fa4eb4e400
+reader addr accessed: 0x73fa4eb4e800
+reader addr accessed: 0x73fa4eb4ec00
+reader addr accessed: 0x73fa4eb4f000
+Offset 512 KB: 35.31 cycles
+reader addr accessed: 0x73fa4eb4f400
+reader addr accessed: 0x73fa4eb4f800
+reader addr accessed: 0x73fa4eb4fc00
+reader addr accessed: 0x73fa4eb50000
+Offset 516 KB: 37.25 cycles
+reader addr accessed: 0x73fa4eb50400
+reader addr accessed: 0x73fa4eb50800
+reader addr accessed: 0x73fa4eb50c00
+reader addr accessed: 0x73fa4eb51000
+Offset 520 KB: 34.28 cycles
+reader addr accessed: 0x73fa4eb51400
+reader addr accessed: 0x73fa4eb51800
+reader addr accessed: 0x73fa4eb51c00
+reader addr accessed: 0x73fa4eb52000
+Offset 524 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eb52400
+reader addr accessed: 0x73fa4eb52800
+reader addr accessed: 0x73fa4eb52c00
+reader addr accessed: 0x73fa4eb53000
+Offset 528 KB: 34.33 cycles
+reader addr accessed: 0x73fa4eb53400
+reader addr accessed: 0x73fa4eb53800
+reader addr accessed: 0x73fa4eb53c00
+reader addr accessed: 0x73fa4eb54000
+Offset 532 KB: 34.29 cycles
+reader addr accessed: 0x73fa4eb54400
+reader addr accessed: 0x73fa4eb54800
+reader addr accessed: 0x73fa4eb54c00
+reader addr accessed: 0x73fa4eb55000
+Offset 536 KB: 42.19 cycles
+reader addr accessed: 0x73fa4eb55400
+reader addr accessed: 0x73fa4eb55800
+reader addr accessed: 0x73fa4eb55c00
+reader addr accessed: 0x73fa4eb56000
+Offset 540 KB: 36.85 cycles
+reader addr accessed: 0x73fa4eb56400
+reader addr accessed: 0x73fa4eb56800
+reader addr accessed: 0x73fa4eb56c00
+reader addr accessed: 0x73fa4eb57000
+Offset 544 KB: 34.27 cycles
+reader addr accessed: 0x73fa4eb57400
+reader addr accessed: 0x73fa4eb57800
+reader addr accessed: 0x73fa4eb57c00
+reader addr accessed: 0x73fa4eb58000
+Offset 548 KB: 35.45 cycles
+reader addr accessed: 0x73fa4eb58400
+reader addr accessed: 0x73fa4eb58800
+reader addr accessed: 0x73fa4eb58c00
+reader addr accessed: 0x73fa4eb59000
+Offset 552 KB: 35.53 cycles
+reader addr accessed: 0x73fa4eb59400
+reader addr accessed: 0x73fa4eb59800
+reader addr accessed: 0x73fa4eb59c00
+reader addr accessed: 0x73fa4eb5a000
+Offset 556 KB: 36.81 cycles
+reader addr accessed: 0x73fa4eb5a400
+reader addr accessed: 0x73fa4eb5a800
+reader addr accessed: 0x73fa4eb5ac00
+reader addr accessed: 0x73fa4eb5b000
+Offset 560 KB: 34.25 cycles
+reader addr accessed: 0x73fa4eb5b400
+reader addr accessed: 0x73fa4eb5b800
+reader addr accessed: 0x73fa4eb5bc00
+reader addr accessed: 0x73fa4eb5c000
+Offset 564 KB: 33.97 cycles
+reader addr accessed: 0x73fa4eb5c400
+reader addr accessed: 0x73fa4eb5c800
+reader addr accessed: 0x73fa4eb5cc00
+reader addr accessed: 0x73fa4eb5d000
+Offset 568 KB: 32.77 cycles
+reader addr accessed: 0x73fa4eb5d400
+reader addr accessed: 0x73fa4eb5d800
+reader addr accessed: 0x73fa4eb5dc00
+reader addr accessed: 0x73fa4eb5e000
+Offset 572 KB: 33.99 cycles
+reader addr accessed: 0x73fa4eb5e400
+reader addr accessed: 0x73fa4eb5e800
+reader addr accessed: 0x73fa4eb5ec00
+reader addr accessed: 0x73fa4eb5f000
+Offset 576 KB: 33.98 cycles
+reader addr accessed: 0x73fa4eb5f400
+reader addr accessed: 0x73fa4eb5f800
+reader addr accessed: 0x73fa4eb5fc00
+reader addr accessed: 0x73fa4eb60000
+Offset 580 KB: 36.80 cycles
+reader addr accessed: 0x73fa4eb60400
+reader addr accessed: 0x73fa4eb60800
+reader addr accessed: 0x73fa4eb60c00
+reader addr accessed: 0x73fa4eb61000
+Offset 584 KB: 35.61 cycles
+reader addr accessed: 0x73fa4eb61400
+reader addr accessed: 0x73fa4eb61800
+reader addr accessed: 0x73fa4eb61c00
+reader addr accessed: 0x73fa4eb62000
+Offset 588 KB: 35.48 cycles
+reader addr accessed: 0x73fa4eb62400
+reader addr accessed: 0x73fa4eb62800
+reader addr accessed: 0x73fa4eb62c00
+reader addr accessed: 0x73fa4eb63000
+Offset 592 KB: 34.21 cycles
+reader addr accessed: 0x73fa4eb63400
+reader addr accessed: 0x73fa4eb63800
+reader addr accessed: 0x73fa4eb63c00
+reader addr accessed: 0x73fa4eb64000
+Offset 596 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eb64400
+reader addr accessed: 0x73fa4eb64800
+reader addr accessed: 0x73fa4eb64c00
+reader addr accessed: 0x73fa4eb65000
+Offset 600 KB: 36.66 cycles
+reader addr accessed: 0x73fa4eb65400
+reader addr accessed: 0x73fa4eb65800
+reader addr accessed: 0x73fa4eb65c00
+reader addr accessed: 0x73fa4eb66000
+Offset 604 KB: 35.54 cycles
+reader addr accessed: 0x73fa4eb66400
+reader addr accessed: 0x73fa4eb66800
+reader addr accessed: 0x73fa4eb66c00
+reader addr accessed: 0x73fa4eb67000
+Offset 608 KB: 35.56 cycles
+reader addr accessed: 0x73fa4eb67400
+reader addr accessed: 0x73fa4eb67800
+reader addr accessed: 0x73fa4eb67c00
+reader addr accessed: 0x73fa4eb68000
+Offset 612 KB: 34.32 cycles
+reader addr accessed: 0x73fa4eb68400
+reader addr accessed: 0x73fa4eb68800
+reader addr accessed: 0x73fa4eb68c00
+reader addr accessed: 0x73fa4eb69000
+Offset 616 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eb69400
+reader addr accessed: 0x73fa4eb69800
+reader addr accessed: 0x73fa4eb69c00
+reader addr accessed: 0x73fa4eb6a000
+Offset 620 KB: 35.75 cycles
+reader addr accessed: 0x73fa4eb6a400
+reader addr accessed: 0x73fa4eb6a800
+reader addr accessed: 0x73fa4eb6ac00
+reader addr accessed: 0x73fa4eb6b000
+Offset 624 KB: 36.84 cycles
+reader addr accessed: 0x73fa4eb6b400
+reader addr accessed: 0x73fa4eb6b800
+reader addr accessed: 0x73fa4eb6bc00
+reader addr accessed: 0x73fa4eb6c000
+Offset 628 KB: 35.54 cycles
+reader addr accessed: 0x73fa4eb6c400
+reader addr accessed: 0x73fa4eb6c800
+reader addr accessed: 0x73fa4eb6cc00
+reader addr accessed: 0x73fa4eb6d000
+Offset 632 KB: 33.93 cycles
+reader addr accessed: 0x73fa4eb6d400
+reader addr accessed: 0x73fa4eb6d800
+reader addr accessed: 0x73fa4eb6dc00
+reader addr accessed: 0x73fa4eb6e000
+Offset 636 KB: 34.08 cycles
+reader addr accessed: 0x73fa4eb6e400
+reader addr accessed: 0x73fa4eb6e800
+reader addr accessed: 0x73fa4eb6ec00
+reader addr accessed: 0x73fa4eb6f000
+Offset 640 KB: 33.91 cycles
+reader addr accessed: 0x73fa4eb6f400
+reader addr accessed: 0x73fa4eb6f800
+reader addr accessed: 0x73fa4eb6fc00
+reader addr accessed: 0x73fa4eb70000
+Offset 644 KB: 36.79 cycles
+reader addr accessed: 0x73fa4eb70400
+reader addr accessed: 0x73fa4eb70800
+reader addr accessed: 0x73fa4eb70c00
+reader addr accessed: 0x73fa4eb71000
+Offset 648 KB: 35.20 cycles
+reader addr accessed: 0x73fa4eb71400
+reader addr accessed: 0x73fa4eb71800
+reader addr accessed: 0x73fa4eb71c00
+reader addr accessed: 0x73fa4eb72000
+Offset 652 KB: 32.82 cycles
+reader addr accessed: 0x73fa4eb72400
+reader addr accessed: 0x73fa4eb72800
+reader addr accessed: 0x73fa4eb72c00
+reader addr accessed: 0x73fa4eb73000
+Offset 656 KB: 33.97 cycles
+reader addr accessed: 0x73fa4eb73400
+reader addr accessed: 0x73fa4eb73800
+reader addr accessed: 0x73fa4eb73c00
+reader addr accessed: 0x73fa4eb74000
+Offset 660 KB: 32.82 cycles
+reader addr accessed: 0x73fa4eb74400
+reader addr accessed: 0x73fa4eb74800
+reader addr accessed: 0x73fa4eb74c00
+reader addr accessed: 0x73fa4eb75000
+Offset 664 KB: 36.88 cycles
+reader addr accessed: 0x73fa4eb75400
+reader addr accessed: 0x73fa4eb75800
+reader addr accessed: 0x73fa4eb75c00
+reader addr accessed: 0x73fa4eb76000
+Offset 668 KB: 32.80 cycles
+reader addr accessed: 0x73fa4eb76400
+reader addr accessed: 0x73fa4eb76800
+reader addr accessed: 0x73fa4eb76c00
+reader addr accessed: 0x73fa4eb77000
+Offset 672 KB: 34.25 cycles
+reader addr accessed: 0x73fa4eb77400
+reader addr accessed: 0x73fa4eb77800
+reader addr accessed: 0x73fa4eb77c00
+reader addr accessed: 0x73fa4eb78000
+Offset 676 KB: 35.48 cycles
+reader addr accessed: 0x73fa4eb78400
+reader addr accessed: 0x73fa4eb78800
+reader addr accessed: 0x73fa4eb78c00
+reader addr accessed: 0x73fa4eb79000
+Offset 680 KB: 35.49 cycles
+reader addr accessed: 0x73fa4eb79400
+reader addr accessed: 0x73fa4eb79800
+reader addr accessed: 0x73fa4eb79c00
+reader addr accessed: 0x73fa4eb7a000
+Offset 684 KB: 35.83 cycles
+reader addr accessed: 0x73fa4eb7a400
+reader addr accessed: 0x73fa4eb7a800
+reader addr accessed: 0x73fa4eb7ac00
+reader addr accessed: 0x73fa4eb7b000
+Offset 688 KB: 34.31 cycles
+reader addr accessed: 0x73fa4eb7b400
+reader addr accessed: 0x73fa4eb7b800
+reader addr accessed: 0x73fa4eb7bc00
+reader addr accessed: 0x73fa4eb7c000
+Offset 692 KB: 33.94 cycles
+reader addr accessed: 0x73fa4eb7c400
+reader addr accessed: 0x73fa4eb7c800
+reader addr accessed: 0x73fa4eb7cc00
+reader addr accessed: 0x73fa4eb7d000
+Offset 696 KB: 33.96 cycles
+reader addr accessed: 0x73fa4eb7d400
+reader addr accessed: 0x73fa4eb7d800
+reader addr accessed: 0x73fa4eb7dc00
+reader addr accessed: 0x73fa4eb7e000
+Offset 700 KB: 32.78 cycles
+reader addr accessed: 0x73fa4eb7e400
+reader addr accessed: 0x73fa4eb7e800
+reader addr accessed: 0x73fa4eb7ec00
+reader addr accessed: 0x73fa4eb7f000
+Offset 704 KB: 34.31 cycles
+reader addr accessed: 0x73fa4eb7f400
+reader addr accessed: 0x73fa4eb7f800
+reader addr accessed: 0x73fa4eb7fc00
+reader addr accessed: 0x73fa4eb80000
+Offset 708 KB: 34.25 cycles
+reader addr accessed: 0x73fa4eb80400
+reader addr accessed: 0x73fa4eb80800
+reader addr accessed: 0x73fa4eb80c00
+reader addr accessed: 0x73fa4eb81000
+Offset 712 KB: 32.82 cycles
+reader addr accessed: 0x73fa4eb81400
+reader addr accessed: 0x73fa4eb81800
+reader addr accessed: 0x73fa4eb81c00
+reader addr accessed: 0x73fa4eb82000
+Offset 716 KB: 33.98 cycles
+reader addr accessed: 0x73fa4eb82400
+reader addr accessed: 0x73fa4eb82800
+reader addr accessed: 0x73fa4eb82c00
+reader addr accessed: 0x73fa4eb83000
+Offset 720 KB: 32.87 cycles
+reader addr accessed: 0x73fa4eb83400
+reader addr accessed: 0x73fa4eb83800
+reader addr accessed: 0x73fa4eb83c00
+reader addr accessed: 0x73fa4eb84000
+Offset 724 KB: 33.98 cycles
+reader addr accessed: 0x73fa4eb84400
+reader addr accessed: 0x73fa4eb84800
+reader addr accessed: 0x73fa4eb84c00
+reader addr accessed: 0x73fa4eb85000
+Offset 728 KB: 36.79 cycles
+reader addr accessed: 0x73fa4eb85400
+reader addr accessed: 0x73fa4eb85800
+reader addr accessed: 0x73fa4eb85c00
+reader addr accessed: 0x73fa4eb86000
+Offset 732 KB: 34.28 cycles
+reader addr accessed: 0x73fa4eb86400
+reader addr accessed: 0x73fa4eb86800
+reader addr accessed: 0x73fa4eb86c00
+reader addr accessed: 0x73fa4eb87000
+Offset 736 KB: 32.81 cycles
+reader addr accessed: 0x73fa4eb87400
+reader addr accessed: 0x73fa4eb87800
+reader addr accessed: 0x73fa4eb87c00
+reader addr accessed: 0x73fa4eb88000
+Offset 740 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eb88400
+reader addr accessed: 0x73fa4eb88800
+reader addr accessed: 0x73fa4eb88c00
+reader addr accessed: 0x73fa4eb89000
+Offset 744 KB: 32.81 cycles
+reader addr accessed: 0x73fa4eb89400
+reader addr accessed: 0x73fa4eb89800
+reader addr accessed: 0x73fa4eb89c00
+reader addr accessed: 0x73fa4eb8a000
+Offset 748 KB: 33.26 cycles
+reader addr accessed: 0x73fa4eb8a400
+reader addr accessed: 0x73fa4eb8a800
+reader addr accessed: 0x73fa4eb8ac00
+reader addr accessed: 0x73fa4eb8b000
+Offset 752 KB: 35.92 cycles
+reader addr accessed: 0x73fa4eb8b400
+reader addr accessed: 0x73fa4eb8b800
+reader addr accessed: 0x73fa4eb8bc00
+reader addr accessed: 0x73fa4eb8c000
+Offset 756 KB: 33.96 cycles
+reader addr accessed: 0x73fa4eb8c400
+reader addr accessed: 0x73fa4eb8c800
+reader addr accessed: 0x73fa4eb8cc00
+reader addr accessed: 0x73fa4eb8d000
+Offset 760 KB: 32.79 cycles
+reader addr accessed: 0x73fa4eb8d400
+reader addr accessed: 0x73fa4eb8d800
+reader addr accessed: 0x73fa4eb8dc00
+reader addr accessed: 0x73fa4eb8e000
+Offset 764 KB: 32.76 cycles
+reader addr accessed: 0x73fa4eb8e400
+reader addr accessed: 0x73fa4eb8e800
+reader addr accessed: 0x73fa4eb8ec00
+reader addr accessed: 0x73fa4eb8f000
+Offset 768 KB: 35.47 cycles
+reader addr accessed: 0x73fa4eb8f400
+reader addr accessed: 0x73fa4eb8f800
+reader addr accessed: 0x73fa4eb8fc00
+reader addr accessed: 0x73fa4eb90000
+Offset 772 KB: 34.28 cycles
+reader addr accessed: 0x73fa4eb90400
+reader addr accessed: 0x73fa4eb90800
+reader addr accessed: 0x73fa4eb90c00
+reader addr accessed: 0x73fa4eb91000
+Offset 776 KB: 32.79 cycles
+reader addr accessed: 0x73fa4eb91400
+reader addr accessed: 0x73fa4eb91800
+reader addr accessed: 0x73fa4eb91c00
+reader addr accessed: 0x73fa4eb92000
+Offset 780 KB: 33.92 cycles
+reader addr accessed: 0x73fa4eb92400
+reader addr accessed: 0x73fa4eb92800
+reader addr accessed: 0x73fa4eb92c00
+reader addr accessed: 0x73fa4eb93000
+Offset 784 KB: 33.93 cycles
+reader addr accessed: 0x73fa4eb93400
+reader addr accessed: 0x73fa4eb93800
+reader addr accessed: 0x73fa4eb93c00
+reader addr accessed: 0x73fa4eb94000
+Offset 788 KB: 35.47 cycles
+reader addr accessed: 0x73fa4eb94400
+reader addr accessed: 0x73fa4eb94800
+reader addr accessed: 0x73fa4eb94c00
+reader addr accessed: 0x73fa4eb95000
+Offset 792 KB: 35.47 cycles
+reader addr accessed: 0x73fa4eb95400
+reader addr accessed: 0x73fa4eb95800
+reader addr accessed: 0x73fa4eb95c00
+reader addr accessed: 0x73fa4eb96000
+Offset 796 KB: 32.77 cycles
+reader addr accessed: 0x73fa4eb96400
+reader addr accessed: 0x73fa4eb96800
+reader addr accessed: 0x73fa4eb96c00
+reader addr accessed: 0x73fa4eb97000
+Offset 800 KB: 32.80 cycles
+reader addr accessed: 0x73fa4eb97400
+reader addr accessed: 0x73fa4eb97800
+reader addr accessed: 0x73fa4eb97c00
+reader addr accessed: 0x73fa4eb98000
+Offset 804 KB: 32.76 cycles
+reader addr accessed: 0x73fa4eb98400
+reader addr accessed: 0x73fa4eb98800
+reader addr accessed: 0x73fa4eb98c00
+reader addr accessed: 0x73fa4eb99000
+Offset 808 KB: 33.91 cycles
+reader addr accessed: 0x73fa4eb99400
+reader addr accessed: 0x73fa4eb99800
+reader addr accessed: 0x73fa4eb99c00
+reader addr accessed: 0x73fa4eb9a000
+Offset 812 KB: 32.80 cycles
+reader addr accessed: 0x73fa4eb9a400
+reader addr accessed: 0x73fa4eb9a800
+reader addr accessed: 0x73fa4eb9ac00
+reader addr accessed: 0x73fa4eb9b000
+Offset 816 KB: 34.26 cycles
+reader addr accessed: 0x73fa4eb9b400
+reader addr accessed: 0x73fa4eb9b800
+reader addr accessed: 0x73fa4eb9bc00
+reader addr accessed: 0x73fa4eb9c000
+Offset 820 KB: 35.55 cycles
+reader addr accessed: 0x73fa4eb9c400
+reader addr accessed: 0x73fa4eb9c800
+reader addr accessed: 0x73fa4eb9cc00
+reader addr accessed: 0x73fa4eb9d000
+Offset 824 KB: 35.49 cycles
+reader addr accessed: 0x73fa4eb9d400
+reader addr accessed: 0x73fa4eb9d800
+reader addr accessed: 0x73fa4eb9dc00
+reader addr accessed: 0x73fa4eb9e000
+Offset 828 KB: 35.57 cycles
+reader addr accessed: 0x73fa4eb9e400
+reader addr accessed: 0x73fa4eb9e800
+reader addr accessed: 0x73fa4eb9ec00
+reader addr accessed: 0x73fa4eb9f000
+Offset 832 KB: 34.45 cycles
+reader addr accessed: 0x73fa4eb9f400
+reader addr accessed: 0x73fa4eb9f800
+reader addr accessed: 0x73fa4eb9fc00
+reader addr accessed: 0x73fa4eba0000
+Offset 836 KB: 34.31 cycles
+reader addr accessed: 0x73fa4eba0400
+reader addr accessed: 0x73fa4eba0800
+reader addr accessed: 0x73fa4eba0c00
+reader addr accessed: 0x73fa4eba1000
+Offset 840 KB: 34.24 cycles
+reader addr accessed: 0x73fa4eba1400
+reader addr accessed: 0x73fa4eba1800
+reader addr accessed: 0x73fa4eba1c00
+reader addr accessed: 0x73fa4eba2000
+Offset 844 KB: 35.52 cycles
+reader addr accessed: 0x73fa4eba2400
+reader addr accessed: 0x73fa4eba2800
+reader addr accessed: 0x73fa4eba2c00
+reader addr accessed: 0x73fa4eba3000
+Offset 848 KB: 34.30 cycles
+reader addr accessed: 0x73fa4eba3400
+reader addr accessed: 0x73fa4eba3800
+reader addr accessed: 0x73fa4eba3c00
+reader addr accessed: 0x73fa4eba4000
+Offset 852 KB: 35.53 cycles
+reader addr accessed: 0x73fa4eba4400
+reader addr accessed: 0x73fa4eba4800
+reader addr accessed: 0x73fa4eba4c00
+reader addr accessed: 0x73fa4eba5000
+Offset 856 KB: 35.26 cycles
+reader addr accessed: 0x73fa4eba5400
+reader addr accessed: 0x73fa4eba5800
+reader addr accessed: 0x73fa4eba5c00
+reader addr accessed: 0x73fa4eba6000
+Offset 860 KB: 34.32 cycles
+reader addr accessed: 0x73fa4eba6400
+reader addr accessed: 0x73fa4eba6800
+reader addr accessed: 0x73fa4eba6c00
+reader addr accessed: 0x73fa4eba7000
+Offset 864 KB: 34.27 cycles
+reader addr accessed: 0x73fa4eba7400
+reader addr accessed: 0x73fa4eba7800
+reader addr accessed: 0x73fa4eba7c00
+reader addr accessed: 0x73fa4eba8000
+Offset 868 KB: 35.54 cycles
+reader addr accessed: 0x73fa4eba8400
+reader addr accessed: 0x73fa4eba8800
+reader addr accessed: 0x73fa4eba8c00
+reader addr accessed: 0x73fa4eba9000
+Offset 872 KB: 35.54 cycles
+reader addr accessed: 0x73fa4eba9400
+reader addr accessed: 0x73fa4eba9800
+reader addr accessed: 0x73fa4eba9c00
+reader addr accessed: 0x73fa4ebaa000
+Offset 876 KB: 35.49 cycles
+reader addr accessed: 0x73fa4ebaa400
+reader addr accessed: 0x73fa4ebaa800
+reader addr accessed: 0x73fa4ebaac00
+reader addr accessed: 0x73fa4ebab000
+Offset 880 KB: 34.63 cycles
+reader addr accessed: 0x73fa4ebab400
+reader addr accessed: 0x73fa4ebab800
+reader addr accessed: 0x73fa4ebabc00
+reader addr accessed: 0x73fa4ebac000
+Offset 884 KB: 33.95 cycles
+reader addr accessed: 0x73fa4ebac400
+reader addr accessed: 0x73fa4ebac800
+reader addr accessed: 0x73fa4ebacc00
+reader addr accessed: 0x73fa4ebad000
+Offset 888 KB: 32.80 cycles
+reader addr accessed: 0x73fa4ebad400
+reader addr accessed: 0x73fa4ebad800
+reader addr accessed: 0x73fa4ebadc00
+reader addr accessed: 0x73fa4ebae000
+Offset 892 KB: 33.95 cycles
+reader addr accessed: 0x73fa4ebae400
+reader addr accessed: 0x73fa4ebae800
+reader addr accessed: 0x73fa4ebaec00
+reader addr accessed: 0x73fa4ebaf000
+Offset 896 KB: 34.33 cycles
+reader addr accessed: 0x73fa4ebaf400
+reader addr accessed: 0x73fa4ebaf800
+reader addr accessed: 0x73fa4ebafc00
+reader addr accessed: 0x73fa4ebb0000
+Offset 900 KB: 35.51 cycles
+reader addr accessed: 0x73fa4ebb0400
+reader addr accessed: 0x73fa4ebb0800
+reader addr accessed: 0x73fa4ebb0c00
+reader addr accessed: 0x73fa4ebb1000
+Offset 904 KB: 35.53 cycles
+reader addr accessed: 0x73fa4ebb1400
+reader addr accessed: 0x73fa4ebb1800
+reader addr accessed: 0x73fa4ebb1c00
+reader addr accessed: 0x73fa4ebb2000
+Offset 908 KB: 34.32 cycles
+reader addr accessed: 0x73fa4ebb2400
+reader addr accessed: 0x73fa4ebb2800
+reader addr accessed: 0x73fa4ebb2c00
+reader addr accessed: 0x73fa4ebb3000
+Offset 912 KB: 34.30 cycles
+reader addr accessed: 0x73fa4ebb3400
+reader addr accessed: 0x73fa4ebb3800
+reader addr accessed: 0x73fa4ebb3c00
+reader addr accessed: 0x73fa4ebb4000
+Offset 916 KB: 35.53 cycles
+reader addr accessed: 0x73fa4ebb4400
+reader addr accessed: 0x73fa4ebb4800
+reader addr accessed: 0x73fa4ebb4c00
+reader addr accessed: 0x73fa4ebb5000
+Offset 920 KB: 35.97 cycles
+reader addr accessed: 0x73fa4ebb5400
+reader addr accessed: 0x73fa4ebb5800
+reader addr accessed: 0x73fa4ebb5c00
+reader addr accessed: 0x73fa4ebb6000
+Offset 924 KB: 34.52 cycles
+reader addr accessed: 0x73fa4ebb6400
+reader addr accessed: 0x73fa4ebb6800
+reader addr accessed: 0x73fa4ebb6c00
+reader addr accessed: 0x73fa4ebb7000
+Offset 928 KB: 35.51 cycles
+reader addr accessed: 0x73fa4ebb7400
+reader addr accessed: 0x73fa4ebb7800
+reader addr accessed: 0x73fa4ebb7c00
+reader addr accessed: 0x73fa4ebb8000
+Offset 932 KB: 32.75 cycles
+reader addr accessed: 0x73fa4ebb8400
+reader addr accessed: 0x73fa4ebb8800
+reader addr accessed: 0x73fa4ebb8c00
+reader addr accessed: 0x73fa4ebb9000
+Offset 936 KB: 32.85 cycles
+reader addr accessed: 0x73fa4ebb9400
+reader addr accessed: 0x73fa4ebb9800
+reader addr accessed: 0x73fa4ebb9c00
+reader addr accessed: 0x73fa4ebba000
+Offset 940 KB: 32.81 cycles
+reader addr accessed: 0x73fa4ebba400
+reader addr accessed: 0x73fa4ebba800
+reader addr accessed: 0x73fa4ebbac00
+reader addr accessed: 0x73fa4ebbb000
+Offset 944 KB: 35.51 cycles
+reader addr accessed: 0x73fa4ebbb400
+reader addr accessed: 0x73fa4ebbb800
+reader addr accessed: 0x73fa4ebbbc00
+reader addr accessed: 0x73fa4ebbc000
+Offset 948 KB: 33.98 cycles
+reader addr accessed: 0x73fa4ebbc400
+reader addr accessed: 0x73fa4ebbc800
+reader addr accessed: 0x73fa4ebbcc00
+reader addr accessed: 0x73fa4ebbd000
+Offset 952 KB: 32.79 cycles
+reader addr accessed: 0x73fa4ebbd400
+reader addr accessed: 0x73fa4ebbd800
+reader addr accessed: 0x73fa4ebbdc00
+reader addr accessed: 0x73fa4ebbe000
+Offset 956 KB: 32.80 cycles
+reader addr accessed: 0x73fa4ebbe400
+reader addr accessed: 0x73fa4ebbe800
+reader addr accessed: 0x73fa4ebbec00
+reader addr accessed: 0x73fa4ebbf000
+Offset 960 KB: 33.99 cycles
+reader addr accessed: 0x73fa4ebbf400
+reader addr accessed: 0x73fa4ebbf800
+reader addr accessed: 0x73fa4ebbfc00
+reader addr accessed: 0x73fa4ebc0000
+Offset 964 KB: 34.26 cycles
+reader addr accessed: 0x73fa4ebc0400
+reader addr accessed: 0x73fa4ebc0800
+reader addr accessed: 0x73fa4ebc0c00
+reader addr accessed: 0x73fa4ebc1000
+Offset 968 KB: 34.00 cycles
+reader addr accessed: 0x73fa4ebc1400
+reader addr accessed: 0x73fa4ebc1800
+reader addr accessed: 0x73fa4ebc1c00
+reader addr accessed: 0x73fa4ebc2000
+Offset 972 KB: 33.95 cycles
+reader addr accessed: 0x73fa4ebc2400
+reader addr accessed: 0x73fa4ebc2800
+reader addr accessed: 0x73fa4ebc2c00
+reader addr accessed: 0x73fa4ebc3000
+Offset 976 KB: 33.97 cycles
+reader addr accessed: 0x73fa4ebc3400
+reader addr accessed: 0x73fa4ebc3800
+reader addr accessed: 0x73fa4ebc3c00
+reader addr accessed: 0x73fa4ebc4000
+Offset 980 KB: 34.02 cycles
+reader addr accessed: 0x73fa4ebc4400
+reader addr accessed: 0x73fa4ebc4800
+reader addr accessed: 0x73fa4ebc4c00
+reader addr accessed: 0x73fa4ebc5000
+Offset 984 KB: 40.41 cycles
+reader addr accessed: 0x73fa4ebc5400
+reader addr accessed: 0x73fa4ebc5800
+reader addr accessed: 0x73fa4ebc5c00
+reader addr accessed: 0x73fa4ebc6000
+Offset 988 KB: 34.28 cycles
+reader addr accessed: 0x73fa4ebc6400
+reader addr accessed: 0x73fa4ebc6800
+reader addr accessed: 0x73fa4ebc6c00
+reader addr accessed: 0x73fa4ebc7000
+Offset 992 KB: 33.96 cycles
+reader addr accessed: 0x73fa4ebc7400
+reader addr accessed: 0x73fa4ebc7800
+reader addr accessed: 0x73fa4ebc7c00
+reader addr accessed: 0x73fa4ebc8000
+Offset 996 KB: 32.77 cycles
+reader addr accessed: 0x73fa4ebc8400
+reader addr accessed: 0x73fa4ebc8800
+reader addr accessed: 0x73fa4ebc8c00
+reader addr accessed: 0x73fa4ebc9000
+Offset 1000 KB: 35.54 cycles
+reader addr accessed: 0x73fa4ebc9400
+reader addr accessed: 0x73fa4ebc9800
+reader addr accessed: 0x73fa4ebc9c00
+reader addr accessed: 0x73fa4ebca000
+Offset 1004 KB: 34.81 cycles
+reader addr accessed: 0x73fa4ebca400
+reader addr accessed: 0x73fa4ebca800
+reader addr accessed: 0x73fa4ebcac00
+reader addr accessed: 0x73fa4ebcb000
+Offset 1008 KB: 34.57 cycles
+reader addr accessed: 0x73fa4ebcb400
+reader addr accessed: 0x73fa4ebcb800
+reader addr accessed: 0x73fa4ebcbc00
+reader addr accessed: 0x73fa4ebcc000
+Offset 1012 KB: 32.80 cycles
+reader addr accessed: 0x73fa4ebcc400
+reader addr accessed: 0x73fa4ebcc800
+reader addr accessed: 0x73fa4ebccc00
+reader addr accessed: 0x73fa4ebcd000
+Offset 1016 KB: 33.94 cycles
+reader addr accessed: 0x73fa4ebcd400
+reader addr accessed: 0x73fa4ebcd800
+reader addr accessed: 0x73fa4ebcdc00
+reader addr accessed: 0x73fa4ebce000
+Offset 1020 KB: 35.56 cycles
+reader addr accessed: 0x73fa4ebce400
+reader addr accessed: 0x73fa4ebce800
+reader addr accessed: 0x73fa4ebcec00
+
+Test complete. Data saved to cache_aliasing_data.csv
+Now you can generate a plot using the Python script.
+Look for spikes at offsets that are multiples of 4KB from the conflict address (at page 96)
